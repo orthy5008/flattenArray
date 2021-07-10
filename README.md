@@ -1,0 +1,2 @@
+# flattenArray
+Just a code
